@@ -1,0 +1,145 @@
+Email database file contains 150 emails
+Choose an option:
+1.  Print summary lines
+2.  Print email message
+3.  Search key word
+4.  Exit
+Enter option:  Enter email ID:  
+From:  J.S.S.M.Wong@ewi.tudelft.nl
+Subject:  [SAMOS07] Call for Papers - SAMOS VII (SUBMISSION SITE OPEN SOON)
+Date:  01-23-07 5:27pm
+Message:
+
+----------------------------------------------------------------------
+Apologies if you received multiple copies of this announcement. For
+removal, specify address(es) to J.S.S.M.Wong@ewi.tudelft.nl. Thanks!
+----------------------------------------------------------------------
+
+Call For Papers SAMOS VII
+(2nd call - SUBMISSION DEADLINE: February 9, 2007)
+(paper submission site opens soon)
+
+International Symposium on Systems, Architectures, MOdeling, and
+Simulation  (SAMOS VII)
+Samos, Greece, July 16-19, 2007
+
+http://ce.et.tudelft.nl/samos/samos_vii/
+
+----------------------------------------------------------------------
+
+SAMOS is a premier and well-established symposium on embedded
+systems organized annually since 2001. The symposium brings together
+researchers from academia and industry on the quiet and inspiring
+northern mountainside of the Mediterranean island of Samos. It
+provides an environment where collaboration rather than competition
+is fostered.
+
+The symposium comprises two co-located events:
+
+* International Conference on Embedded Computer Systems:
+  Architectures, Modeling, and Simulation (IC-SAMOS)
+
+  The conference considers new state-of-the-art mature research papers
+  on all aspects of embedded processor hardware/software design and
+  integration. The IC-SAMOS is an IEEE co-sponsored conference (by both
+  the IEEE CAS Society and the IEEE Germany SSCS chapter) and the
+  conference proceedings will be published in the IEEE series.
+
+* International Workshop on Systems, Architectures, Modeling, and
+  Simulation (SAMOS Workshop)
+
+  The workshop considers state-of-the-art research papers as well as
+  papers on ongoing work with promising preliminary results. Positional
+  and in-depth review papers are also considered. Furthermore, the
+  workshop covers additional topics compared to IC-SAMOS that are
+  complementary to processing and necessary to build embedded systems,
+  e.g., sensor systems. The workshop proceedings will be published by
+  Springer Verlag in the LNCS series.
+
+The IC-SAMOS topics of interest are: (but not limited to)
+
+* Application-specific/Domain-specific Embedded Systems
+* Profiling, Measurement and Analysis Techniques for Embedded Systems
+* Hardware/Software Co-design
+* Design Space Exploration
+* System-Level Design, Simulation, and Verification
+* Embedded Reconfigurable Processors
+* Multimedia and Graphics Architectures
+* Energy-Aware and Low-Power Processors
+* Embedded Parallel Systems
+* Application Specifications and Modeling for Embedded Systems
+* Memory Management, Smart Caches, and Compiler Controlled Memories
+* Design, Specification and Synthesis of Embedded Systems
+* Compilers and Mapping Technologies
+* Multi-threaded Processors
+* Computer Aided Design
+* Specification Languages and Models
+* Processor Simulation Technologies
+* Novel Architectures and Micro-architectures for Embedded Systems
+* Network-on-Chip Platforms
+* Multi-Processor Systems-on-Chip
+* Digital Signal Processors
+
+The SAMOS Workshop covers the following topics: (but not limited to)
+
+* System-Level Design, Simulation, and Verification
+* Multimedia and Graphics Architectures
+* Embedded Software
+* Hardware/Software Co-design
+* Design Space Exploration
+* Profiling, Measurement, and Analysis Techniques for Embedded Systems
+* Embedded System Integration and Testing
+* Energy-Aware and Low-Power Processors
+* Novel Architectures and Micro-architectures for Embedded Systems
+* Application Specifications and Modeling for Embedded Systems
+* Processor Simulation Technologies
+* Compilers and Mapping Technologies
+* Computer Aided Design
+* Component-based Design and Analysis
+* Physical Design
+* Application-specific Systems (e.g., automotive)
+* Implantable Systems
+* Specification Languages and Models
+* Applications of Embedded Systems
+* Network-on-Chip Platforms
+* Multi-Processor Systems-on-Chip
+* Programming models for multi-processor embedded systems
+* Embedded Parallel Systems
+* Networked Embedded Systems and Security
+* Embedded System-on-a-Chip Implementations
+* Multi-threaded Processors
+* High-Level, Architectural, and System Level Synthesis
+* Digital Signal Processors
+* Performance Analysis of Embedded Systems
+* Embedded Operating Systems
+* Real-time Embedded Systems
+* Memory Management, Smart Caches, and Compiler Controlled Memories
+* Embedded Reconfigurable Processors
+* Reliable and Trustworthy Embedded Systems
+
+The SAMOS conference and workshop have established a tradition of
+not only presenting new results but also bringing to the audience
+open challenging problems and on-the-stage requests for suggestions
+for solutions. In addition of considering only new innovative
+research, submissions of works in progress, positional, and review
+of the state of the art papers are also encouraged.
+
+----------------------------------------------------------------------
+DEADLINES (Important Dates)
+----------------------------------------------------------------------
+
+February 9, 2007   -- Paper Submission Deadline
+
+March 23, 2007     -- Notification of Acceptance
+
+April 13, 2007     -- Camera Ready Submission Deadline
+
+July 16 - 19, 2007 -- SAMOS VII, Greece
+
+
+Choose an option:
+1.  Print summary lines
+2.  Print email message
+3.  Search key word
+4.  Exit
+Enter option:  

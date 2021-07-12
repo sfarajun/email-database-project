@@ -1,0 +1,7 @@
+Email database file contains 150 emails
+Choose an option:
+1.  Print summary lines
+2.  Print email message
+3.  Search key word
+4.  Exit
+Enter option:  

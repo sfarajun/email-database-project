@@ -1,0 +1,162 @@
+Email database file contains 150 emails
+Choose an option:
+1.  Print summary lines
+2.  Print email message
+3.  Search key word
+4.  Exit
+Enter option:  1.  10-01-06 8:19pm contact@itng.info [24] Call for Papers- ITNG 200
+2.  10-02-06 1:10pm news@dac.com [153] DAC Newsletter - EDA, whe
+3.  10-02-06 4:23pm contact@itng.info [25] Call for Papers- ITNG 200
+4.  10-03-06 4:45pm hhunter@us.ibm.com [138] Final Call For Participat
+5.  10-04-06 11:24am ssair@moss.csc.ncsu.edu [72] Journal of ILP: Papers Du
+6.  10-04-06 4:23pm solihin-iiswc06@eos.ncsu.edu [145] IISWC 2006: Call for Part
+7.  10-04-06 5:23pm solihin-iiswc06@eos.ncsu.edu [145] IISWC 2006: Call for Part
+8.  10-05-06 11:16am krichardson@icnt.org [401] International Congress of
+9.  10-05-06 11:16am krichardson@icnt.org [401] International Congress of
+10.  10-06-06 3:18pm ssair@moss.csc.ncsu.edu [81] REMINDER: IEEE Micro Top 
+11.  10-07-06 11:43pm wmsci2007.information@iiis-info-cyber.org [55] Inviting you to participa
+12.  10-09-06 1:00am dconnors@Colorado.EDU [35] CFP : Special Issues of C
+13.  10-02-06 12:32pm feit@cs.huji.ac.il [99] [Micro_publicity] Worksho
+14.  10-11-06 3:30pm loh@cc.gatech.edu [144] [Micro_publicity] ISPASS 
+15.  10-12-06 5:07pm wmsci2007@iiis-info-cyber.org [54] Inviting you to participa
+16.  10-12-06 9:09pm contact@itng.info [25] Deadline Extended-Call fo
+17.  10-13-06 5:59pm ces-adm@informatik.uni-karlsruhe.de [61] [Ces_news] PhD Forum at D
+18.  10-13-06 5:34pm mcv1mailer@ScholarOne.com [29] Manuscript Central Accoun
+19.  09-18-06 5:39pm pbose@us.ibm.com [108] [Micro_publicity] IEEE Mi
+20.  10-13-06 8:10pm isss@optimal.vlsi.uwaterloo.ca [199] ESWEEK ONLINE REGISTRATIO
+21.  10-16-06 4:40pm icmsao@pi.ac.ae [3051] ICMSAO '07 - Extended Dat
+22.  10-16-06 9:27am poshea@umd.edu [64] Important events this aft
+23.  10-16-06 6:39pm Engineering@prenhall.com [26] Your Digital Design cours
+24.  10-16-06 4:51pm solihin-iiswc06@eos.ncsu.edu [145] IISWC 2006: Last Call for
+25.  10-17-06 8:58pm inscit2006@instac.es [79] InSciT2006 Conference
+26.  10-17-06 8:53pm sc06newsletter@sc-submissions.org [279] SC06 October Newsletter
+27.  10-18-06 11:42am dburger@CS.UTEXAS.EDU [698] SIGARCH-MSG: 1st October 
+28.  10-12-06 8:05pm ericro@ece.ncsu.edu [213] [Micro_publicity] CASES -
+29.  10-23-06 5:09pm splconf@uam.es [426] SPL' 07 Deadline Extensio
+30.  10-23-06 5:49pm jcavazos@inf.ed.ac.uk [107] SMART Workshop * 2 Week D
+31.  10-23-06 1:41pm ancs_announce@cse.wustl.edu [208] [ANCS] Call for Participa
+32.  10-23-06 1:41pm ancs_announce@cse.wustl.edu [208] [ANCS] Call for Participa
+33.  10-23-06 10:01pm jcavazos@inf.ed.ac.uk [107] SMART Workshop * 2 Week D
+34.  10-24-06 7:52am Atlantictextbook@aol.com [137] Textbook buyback visit-Th
+35.  10-25-06 4:14pm ssair@moss.csc.ncsu.edu [19] MICRO-39: Call for Partic
+36.  10-25-06 5:12pm lps_seminar@lps.umd.edu [195] LPS Seminar
+37.  10-26-06 3:26pm contact@itng.info [25] Extended Deadline-Oct. 27
+38.  10-26-06 7:38pm contact@itng.info [26] Extended Deadline-Oct. 27
+39.  10-26-06 9:21pm tom@progressiveengineer.com [103] New Posting
+40.  10-27-06 12:06am contact@itng.info [26] Extended Deadline-Oct. 27
+41.  10-27-06 11:34am info@dac.com [80] DAC/ISSCC Student Design 
+42.  10-27-06 5:25pm ssair@moss.csc.ncsu.edu [29] Journal of Computer Langu
+43.  10-27-06 5:48pm owner-ece-gradstudents@Majordomo.umd.edu [67] HyNet Advanced Network Co
+44.  10-27-06 8:51am jhkz@umich.edu [36] Please do Faculty Self-Ar
+45.  10-29-06 4:19pm wcn@alert.hindawi.com [72] Multimedia over Wireless 
+46.  10-30-06 5:16pm asp@alert.hindawi.com [84] Cooperative Localization 
+47.  10-31-06 4:54am knoop@complang.tuwien.ac.at [67] [CGO 2007] Final Call for
+48.  10-31-06 9:40pm citsa2007@info-cyber.org [30] Inviting you to participa
+49.  11-01-06 12:52am dburger@CS.UTEXAS.EDU [256] SIGARCH-MSG: 2nd October 
+50.  11-03-06 12:47am knoop@complang.tuwien.ac.at [114] 5th Workshop on Optimizat
+51.  11-03-06 12:58am nocs@eros.ee.princeton.edu [76] IEEE NoC Symopsium 2007 -
+52.  11-04-06 2:33pm ssair@moss.csc.ncsu.edu [44] ISCA Abstract Deadline No
+53.  11-05-06 5:38am hra@pixel.cviog.uga.edu [262] Worldcomp'07: Call For Pa
+54.  11-04-06 10:56pm mzahran@ccny.cuny.edu [66] [Micro_publicity] Call fo
+55.  11-06-06 10:38am mjwu@umd.edu [6238] UMIACS-TR-2006-42
+56.  11-06-06 6:25pm ces-news@irf.uni-karlsruhe.de [63] [Ces_news] Deadline Exten
+57.  11-06-06 6:25pm ces-news@irf.uni-karlsruhe.de [63] [Ces_news] Deadline Exten
+58.  11-07-06 10:33pm ancs_announce@cse.wustl.edu [211] [ANCS] Call for Participa
+59.  11-08-06 2:33pm asp@alert.hindawi.com [77] EURASIP Journal on Applie
+60.  11-08-06 3:27pm ssair@moss.csc.ncsu.edu [19] MICRO-39: Call for Partic
+61.  11-08-06 4:00pm ssair@moss.csc.ncsu.edu [19] MICRO-39: Call for Partic
+62.  11-09-06 8:29am leeckhou@jumbo.elis.UGent.be [106] CAECW-10: papers are due 
+63.  11-10-06 3:15pm hartenst@rhrk.uni-kl.de [161] [morphware] Calls for Pap
+64.  11-10-06 3:15pm hartenst@rhrk.uni-kl.de [161] [morphware] Calls for Pap
+65.  11-10-06 6:39pm hartenst@rhrk.uni-kl.de [81] [morphware] another Call 
+66.  11-11-06 11:26pm cief2007@post.csu.edu.tw [2199] First Call for Papers on 
+67.  11-12-06 9:40am es@alert.hindawi.com [87] Operating System Support 
+68.  11-12-06 10:00pm hipeac2007@gso.ac.upc.edu [34] HiPEAC 2007 CALL FOR PART
+69.  11-10-06 9:32am jhkz@umich.edu [39] Faculty Self-Archiving Su
+70.  11-14-06 1:57am kubatova@dsd07.felk.cvut.cz [2834] DSD'2007 Call for Papers
+71.  11-15-06 5:20pm asp@alert.hindawi.com [65] EURASIP Journal on Applie
+72.  11-16-06 12:27pm es.alert@alert.hindawi.com [86] Embedded System Design in
+73.  11-16-06 8:19pm hartenst@rhrk.uni-kl.de [68] [morphware] CALL  FOR  PA
+74.  11-13-06 6:05pm hipeac2007@gso.ac.upc.edu [39] [Micro_publicity] HiPEAC 
+75.  11-20-06 5:45am leeckhou@jumbo.elis.UGent.be [106] CAECW-10 REMINDER: papers
+76.  11-20-06 11:59am ssair@moss.csc.ncsu.edu [17] MICRO-39: Early Registrat
+77.  11-21-06 1:04pm soic2007@cyber-inf.org [28] Inviting you to participa
+78.  11-26-06 1:31pm hpca@ece.arizona.edu [367] HPCA-13: Conference Progr
+79.  11-27-06 3:01pm waung@ineer.org [55] Invitation to ICEE-2007, 
+80.  11-26-06 1:31pm hpca@ece.arizona.edu [367] HPCA-13: Conference Progr
+81.  11-28-06 1:05pm xt2000@cc.gatech.edu [123] LCTES 2007 Call For Paper
+82.  11-28-06 11:03am mm-9714-1231154@bepress.com [244] International Journal of 
+83.  11-20-06 12:30am amimar2@yahoo.com [67] [Micro_publicity] CFP: WL
+84.  11-20-06 12:30am amimar2@yahoo.com [67] [Micro_publicity] CFP: WL
+85.  11-28-06 1:35pm xt2000@cc.gatech.edu [123] LCTES 2007 Call For Paper
+86.  11-28-06 1:35pm xt2000@cc.gatech.edu [123] LCTES 2007 Call For Paper
+87.  11-27-06 2:17pm npcarter@crhc.uiuc.edu [192] [Micro_publicity] Computi
+88.  11-30-06 11:55am tipservice@acm.org [63] ACM Member Technical Inte
+89.  11-29-06 8:24am reis@inf.ufrgs.br [450] [Micro_publicity] IEEE IS
+90.  12-03-06 4:23pm npcarter@crhc.uiuc.edu [195] [Micro_publicity] CF 2007
+91.  12-05-06 3:37pm hpca@ece.arizona.edu [373] HPCA-13: Call for Partici
+92.  12-05-06 4:18pm hpca@ece.arizona.edu [373] HPCA-13: Call for Partici
+93.  12-05-06 4:18pm hpca@ece.arizona.edu [373] HPCA-13: Call for Partici
+94.  12-06-06 12:22pm postmaster8@303media.net [96] Invitation to submit a pa
+95.  12-07-06 12:54pm ssair@moss.csc.ncsu.edu [15] MICRO-39: Final Call for 
+96.  12-07-06 4:32pm J.S.S.M.Wong@ewi.tudelft.nl [130] [SAMOS07] Call for Papers
+97.  12-07-06 4:32pm J.S.S.M.Wong@ewi.tudelft.nl [130] [SAMOS07] Call for Papers
+98.  12-07-06 3:15pm news@dac.com [255] DAC Newsletter - DAC Chai
+99.  12-06-06 9:39pm babak@cmu.edu [660] [Micro_publicity] SELSE s
+100.  12-06-06 9:39pm babak@cmu.edu [660] [Micro_publicity] SELSE s
+101.  12-12-06 3:06pm cief2007@csu.edu.tw [2206] CIEF2007: Important Dates
+102.  12-12-06 4:09pm wmsci2007.sec@iiis-info-cyber.org [33] Second Call for Papers an
+103.  12-13-06 11:15pm cief2007@csu.edu.tw [64] Call for Special sessions
+104.  12-13-06 6:39pm hipeac2007@gso.ac.upc.edu [51] HiPEAC 2007 CONFERENCE NE
+105.  12-14-06 10:57pm hra@pixel.cviog.uga.edu [258] Worldcomp'07: Call For Pa
+106.  12-15-06 4:50am dburger@CS.UTEXAS.EDU [190] SIGARCH-MSG: 2nd December
+107.  12-18-06 7:09am postmaster8@303media.net [196] Invitation to submit a pa
+108.  12-19-06 3:03pm vberry@umd.edu [188] Package for Yeung from Pr
+109.  12-20-06 6:10pm tom@progressiveengineer.com [62] New Posting
+110.  12-21-06 9:27pm hpca@ece.arizona.edu [380] 2007 HPCA-13: Registratio
+111.  12-13-06 6:38pm hipeac2007@gso.ac.upc.edu [55] [Micro_publicity] HiPEAC 
+112.  12-14-06 4:08pm yjnam@daegu.ac.kr [77] [Micro_publicity] ICESS 2
+113.  12-14-06 4:08pm yjnam@daegu.ac.kr [77] [Micro_publicity] ICESS 2
+114.  01-01-07 1:51pm dburger@CS.UTEXAS.EDU [84] SIGARCH-MSG: 1st January 
+115.  01-03-07 12:51pm asp@alert.hindawi.com [102] Wireless Video
+116.  01-05-07 9:03am info_ingrian.com@mail.vresp.com [192] Encryption Panel, RSA - F
+117.  01-05-07 1:13pm fatima@cs.umd.edu [64] The Preliminary Oral Exam
+118.  01-05-07 1:13pm news@dac.com [99] DAC Newsletter: An Inside
+119.  01-07-07 7:18pm hpca@ece.arizona.edu [96] 2007 HPCA-13: Call for Pa
+120.  01-07-07 7:58pm hpca@ece.arizona.edu [96] 2007 HPCA-13: Call for Pa
+121.  01-08-07 3:17pm deepak.agarwal@amd.com [21] Re: journal revision of t
+122.  01-08-07 1:39pm wcn@alert.hindawi.com [78] Wireless Telemedicine and
+123.  01-08-07 4:24pm axel@imit.kth.se [82] DATE 2007 Workshop on Dia
+124.  01-08-07 5:30pm axel@imit.kth.se [82] DATE 2007 Workshop on Dia
+125.  01-08-07 12:01pm ppw@ee.duke.edu [20] Re: LCTES 2007 Call For P
+126.  01-04-07 5:13pm hychan@cs.usm.my [249] [Micro_publicity] CFP DFM
+127.  01-04-07 5:13pm hychan@cs.usm.my [249] [Micro_publicity] CFP DFM
+128.  01-08-07 12:47pm npcarter@crhc.uiuc.edu [118] [Micro_publicity] ICS 200
+129.  01-08-07 12:47pm npcarter@crhc.uiuc.edu [118] [Micro_publicity] ICS 200
+130.  01-08-07 12:47pm npcarter@crhc.uiuc.edu [118] [Micro_publicity] ICS 200
+131.  01-08-07 6:11pm hpca@ece.arizona.edu [381] 2007 HPCA-13: Call for Pa
+132.  01-08-07 6:11pm hpca@ece.arizona.edu [381] 2007 HPCA-13: Call for Pa
+133.  01-09-07 6:03pm knoop@complang.tuwien.ac.at [52] CFP: 2nd Workshop on Soft
+134.  01-09-07 1:11pm npcarter@crhc.uiuc.edu [129] [Micro_publicity] CARD Wo
+135.  01-09-07 1:11pm npcarter@crhc.uiuc.edu [129] [Micro_publicity] CARD Wo
+136.  01-10-07 3:57pm es.alert@alert.hindawi.com [99] Reconfigurable Computing 
+137.  01-10-07 10:24pm knoop@complang.tuwien.ac.at [116] ODES-5: Final CFP with 1 
+138.  01-10-07 3:50pm hpca@ece.arizona.edu [85] 2007 HPCA-13: Call for Pa
+139.  01-11-07 12:38am leeckhou@jumbo.elis.UGent.be [85] CAECW-10 CALL FOR PARTICI
+140.  01-14-07 8:51pm hpca@ece.arizona.edu [402] 2007 HPCA-13: Call for Pa
+141.  01-12-07 6:08pm loh@cc.gatech.edu [70] [Micro_publicity] CFP: UC
+142.  01-12-07 6:08pm loh@cc.gatech.edu [70] [Micro_publicity] CFP: UC
+143.  01-17-07 10:30pm kubatova@dsd07.felk.cvut.cz [2872] DSD'2007 2nd Call for Pap
+144.  01-17-07 2:46pm jean-christophe.lapayre@univ-fcomte.fr [206] [Micro_publicity] CFP DFM
+145.  01-21-07 5:34pm soic2007@cyber-inf.org [33] Second Call for Papers an
+146.  01-22-07 1:03pm news@dac.com [66] DAC/SIGDA Ph.D Forum Call
+147.  01-22-07 3:51pm hpca@ece.arizona.edu [70] 2007 HPCA-13: Call for Pa
+148.  01-22-07 6:37pm hpca@ece.arizona.edu [399] 2007 HPCA-13: Early Regis
+149.  01-23-07 1:22pm asp@alert.hindawi.com [68] EURASIP Journal on Advanc
+150.  01-23-07 5:27pm J.S.S.M.Wong@ewi.tudelft.nl [128] [SAMOS07] Call for Papers
+Choose an option:
+1.  Print summary lines
+2.  Print email message
+3.  Search key word
+4.  Exit
+Enter option:  

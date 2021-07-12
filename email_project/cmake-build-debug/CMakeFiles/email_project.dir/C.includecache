@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/email_print.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+email_project.h
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/email_project.h
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/email_project.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+email_project.h
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/email_project.h
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/email_project.h
+
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/parse.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ctype.h
+-
+math.h
+-
+email_project.h
+/Users/saharfarajun/Documents/Sophmore UMD/first semester/enee150/email_project/email_project.h
+
